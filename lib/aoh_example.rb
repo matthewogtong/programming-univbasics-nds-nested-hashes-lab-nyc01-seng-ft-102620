@@ -19,11 +19,9 @@ end
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
-  # held in the constants
+  # held in the constantsß
 
-  aoh = []
 
-  aoh.push(DON_G[:name, :occupation], JOELLE_VD[:name, :occupation], PAT_M[:name, :occupation], KATE_G[:name, :occupation], BRUCE_G[:name, :occupation])
 
 end
 
