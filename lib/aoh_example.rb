@@ -12,7 +12,7 @@ def assembled_aoh
 
   aoh = []
 
-  aoh.push(ALL_CAPS)
+  aoh.push(DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G)
 
 
 end
