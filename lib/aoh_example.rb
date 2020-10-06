@@ -13,8 +13,8 @@ def assembled_aoh
   aoh = []
 
   aoh.push(ALL_CAPS)
-  
-  
+
+
 end
 
 def literal_aoh
